@@ -17,6 +17,12 @@ Religions should have multiple ethics: one could be aggressive and dominative, a
 ## Todo
 
 #### Social
+
+##### Traits 
+
+???? 
+
+##### Government
 A Religion and the Government type should be tied together. For example, a *Democracy* government will induce to the pops a more "free thinking" and less cohesive pops (a mix of atheists and something else), that could be defined through custom events, or a general percentage.
 
 *Proposition*:
@@ -26,6 +32,9 @@ A Religion and the Government type should be tied together. For example, a *Demo
 - Monarchy: similar to dictatorship
 - Hive Mind: no religions.
 
+##### Civics
+
+??? 
 
 #### Game modifications:
 We should modify the content of the following folders, found in \SteamLibrary\steamapps\common\Stellaris\common
