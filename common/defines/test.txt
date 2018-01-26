@@ -1,0 +1,4 @@
+NCAMERA = {
+		FOV = 60
+}
+
