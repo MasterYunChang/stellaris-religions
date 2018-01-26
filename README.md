@@ -39,7 +39,9 @@ A Religion and the Government type should be tied together. For example, a *Demo
 #### Game modifications:
 We should modify the content of the following folders, found in \SteamLibrary\steamapps\common\Stellaris\common
 
-- Ethics
 - Edicts
 - Attitudes?
 - On_actions (events)
+- Ethics (ethics) // p.ex.spiritualist, mitlitarist 
+- Government (government/ authorities)
+- Civics (government/ civics)
