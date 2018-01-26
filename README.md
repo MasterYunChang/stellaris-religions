@@ -23,7 +23,8 @@ A Religion and the Government type should be tied together. For example, a *Demo
 - Democracy: pops are "free" and do what they think. They should be able to choose their religion of choice, or not to believe in any. Minor religious presence within pops could make these concerned populations happier, with a steady decrease in happiness in case of no positive events.
 - Oligarchy: pops are more-or-less obliged to follow one religion, although some minor religions are tolerated. If a minor religion wants to become the main religion, either some "holy wars" events could occur, a sequence of events (riots, uprisings, wild conversions or propaganda...) or a tragic consequence (lost war, a sacred planet destroyed/recaptured...)
 - Dictatorship: pops are obliged to follow the official religion, minor religions will be prosecuted and exterminated upon the player's choice.
-
+- Monarchy: similar to dictatorship
+- Hive Mind: no religions.
 
 
 #### Game modifications:
